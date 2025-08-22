@@ -1,3 +1,5 @@
+![logo](https://github.com/adityakush27/adityakush27/blob/main/aditya%20profile%20banner.png)
+
 <h1 align="center">Hi 👋, I'm Aditya Kushwaha</h1>
 <h3 align="center">A passionate developer from India</h3>
 
